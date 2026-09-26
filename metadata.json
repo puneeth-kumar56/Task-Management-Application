@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Real-Time Task Management",
+  "description": "Production-ready full-stack task management application with JWT authentication, Socket.IO real-time sync, dynamic filtering, Kanban and list views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

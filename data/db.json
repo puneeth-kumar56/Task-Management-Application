@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "_id": "usr_muinuv77",
+      "name": "Alex Rivera",
+      "email": "demo@taskflow.dev",
+      "password": "$2b$10$R.A2b.I8S1.awwTFfWfRK.mna.9vNH3e4yt1HLIGkK/q594iHVjvi",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "createdAt": "2026-09-26T17:25:42.643Z",
+      "updatedAt": "2026-09-26T17:25:42.643Z"
+    }
+  ],
+  "tasks": [
+    {
+      "_id": "task_t6rkbtd",
+      "title": "Design high-conversion landing page & UI components",
+      "description": "Create responsive layout with dark mode accents, Tailwind CSS utility classes, and accessible typography.",
+      "dueDate": "2026-09-28",
+      "status": "In Progress",
+      "priority": "High",
+      "assignedTo": "Alex Rivera",
+      "tags": [
+        "Design",
+        "UI/UX"
+      ],
+      "createdBy": {
+        "_id": "usr_muinuv77",
+        "name": "Alex Rivera",
+        "email": "demo@taskflow.dev"
+      },
+      "createdAt": "2026-09-26T05:25:42.643Z",
+      "updatedAt": "2026-09-26T17:25:42.643Z"
+    },
+    {
+      "_id": "task_5b4omps",
+      "title": "Configure Socket.IO real-time broadcast cluster",
+      "description": "Implement bi-directional event pipeline for instant state synchronization across multi-device active sessions.",
+      "dueDate": "2026-10-01",
+      "status": "Pending",
+      "priority": "Medium",
+      "assignedTo": "Dev Team",
+      "tags": [
+        "Backend",
+        "WebSockets"
+      ],
+      "createdBy": {
+        "_id": "usr_muinuv77",
+        "name": "Alex Rivera",
+        "email": "demo@taskflow.dev"
+      },
+      "createdAt": "2026-09-26T11:25:42.643Z",
+      "updatedAt": "2026-09-26T17:25:42.643Z"
+    },
+    {
+      "_id": "task_86zcy2j",
+      "title": "Deploy JWT Auth & Password hashing with bcrypt",
+      "description": "Enforce Bearer authorization headers and role-protected middleware routes.",
+      "dueDate": "2026-09-25",
+      "status": "Completed",
+      "priority": "High",
+      "assignedTo": "Alex Rivera",
+      "tags": [
+        "Security",
+        "Auth"
+      ],
+      "createdBy": {
+        "_id": "usr_muinuv77",
+        "name": "Alex Rivera",
+        "email": "demo@taskflow.dev"
+      },
+      "createdAt": "2026-09-25T17:25:42.643Z",
+      "updatedAt": "2026-09-26T17:25:42.643Z"
+    }
+  ]
+}
